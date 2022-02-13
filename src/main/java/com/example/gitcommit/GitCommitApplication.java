@@ -8,6 +8,8 @@ public class GitCommitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitCommitApplication.class, args);
+
 	}
+
 
 }
